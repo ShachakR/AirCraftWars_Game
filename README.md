@@ -1,9 +1,18 @@
-#DESCRIPTION
+# DESCRIPTION
+This project was created through the Unity Engine, inspired by the game Space Invaders, the goal of the game is to survive and prevent enemy ships from getting past you. Upon each completed level, you can upgrade some of your spacecraft's abilities. 
 
-Files are too large for github, please refer to a DropBox download link: https://www.dropbox.com/sh/jhhvgseg43kiikj/AACXigsXM8RM7HTX1WY8mtePa?dl=0
+The goal of this project:
+* Learn Unity Engine and its API
+* Design UserInterface
+* Learn c# 
 
-You can access and run the game build by going to: \Builds\Earth Invaders x86 V.1 and running the Earth Invaders x86 V.1.exe file 
+# DOWNLOAD
+Since the files are too large for github, please refer to this [dropbox](https://www.dropbox.com/sh/nm5m25uf310s92c/AADaDXwfUnyL3Vmvg6KgVw-Ka?dl=0)
+The folder is 139mb in size. 
+Once downloaded, run Earth Invaders V.1.exe file.
 
-Known Bug in the game: Health Bar disapears
+# BUGS
+Health Bar might sometimes disapear
 
-Assets: Most assets were drawn by me using https://www.piskelapp.com/ (Free online spirte editor), other assets were used from the unity free asset store
+# ASSETS
+Most assets were drawn by me using https://www.piskelapp.com/ (Free online spirte editor), other assets were used from the unity free asset store
