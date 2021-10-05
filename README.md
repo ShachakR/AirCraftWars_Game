@@ -8,7 +8,7 @@ The goal of this project:
 * Learn c# 
 
 # DOWNLOAD
-Since the files are too large for github, please refer to this [dropbox](https://www.dropbox.com/sh/nm5m25uf310s92c/AADaDXwfUnyL3Vmvg6KgVw-Ka?dl=0)
+Since the files are too large for github, please refer to this [dropbox](https://www.dropbox.com/sh/nm5m25uf310s92c/AADaDXwfUnyL3Vmvg6KgVw-Ka?dl=0).
 The folder is 139mb in size. 
 Once downloaded, run Earth Invaders V.1.exe file.
 
