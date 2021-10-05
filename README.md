@@ -3,7 +3,8 @@ This project was created through the Unity Engine, inspired by the game Space In
 
 The goal of this project:
 * Learn Unity Engine and its API
-* Design UserInterface
+* Learn how to design and implement gameplay systems 
+* Design User Interface
 * Learn c# 
 
 # DOWNLOAD
